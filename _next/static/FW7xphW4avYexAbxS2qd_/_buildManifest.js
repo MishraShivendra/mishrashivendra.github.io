@@ -1,36 +1,31 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/6d1afc8d4bbab30c.js"
+    "static/chunks/c051d0f61aaa8ee4.js"
   ],
   "/_error": [
-    "static/chunks/c47cad7e93cd3370.js"
+    "static/chunks/d5bdb13e25be6a0c.js"
   ],
   "/contact": [
-    "static/chunks/cbd05a64415beadc.js"
+    "static/chunks/43d4741c002afc3b.js"
   ],
   "/experience": [
-    "static/chunks/30be8e273647cbad.js"
+    "static/chunks/2aa0384aa331b89d.js"
   ],
   "/projects": [
-    "static/chunks/8a7a98d3d54d2e5b.js"
+    "static/chunks/1c739a546bc41259.js"
   ],
   "/projects/[slug]": [
-    "static/chunks/dbf18835c0d8013f.js"
+    "static/chunks/efaf2b565b389826.js"
   ],
   "/publications": [
-    "static/chunks/66eeb012a9c25693.js"
+    "static/chunks/36745fb31d228f68.js"
   ],
   "/skills": [
-    "static/chunks/9c7470c7d35d3b5c.js"
+    "static/chunks/d5f971e054bcfa68.js"
   ],
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [
-      {
-        "source": "/MishraShivendra//_next/:path+",
-        "destination": "/MishraShivendra/_next/:path+"
-      }
-    ],
+    "beforeFiles": [],
     "fallback": []
   },
   "sortedPages": [
