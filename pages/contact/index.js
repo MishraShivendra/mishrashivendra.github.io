@@ -4,7 +4,7 @@ import { HiOutlineMail } from "react-icons/hi";
 export default function ContactPage() {
   // Spam-safe email
   const user = "shivendra_mishra";
-  const domain = "live.com";
+  const domain = "comsoc.org";
   const email = `${user}@${domain}`;
 
   return (
